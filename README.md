@@ -20,7 +20,8 @@ These are core UI widgets I’ve worked with:
 
 - **ElevatedButton, IconButton, FloatingActionButton**  
   → Buttons to trigger actions with style and animation options.
-
+  
+> **Much more to Learn!**
 ---
 
 ## 🎞️ Flutter Animations
@@ -47,7 +48,8 @@ I'm exploring how animation enhances user experience:
 → And Much More.
 
 - ✅ Multiple animations can be applied to a **single widget** for compound motion.
-→ Much More.
+- 
+> **Much more to Learn!**
 ---
 
 ## 📦 Packages I've Explored
@@ -63,7 +65,25 @@ I'm exploring how animation enhances user experience:
 
 - **[shared_preferences](https://pub.dev/packages/shared_preferences)**  
   → For storing simple persistent data like login state or input text locally.
-→ Much More.
+
+> **Much more to Learn!**
+
+---
+
+## 📚 Resources
+
+Some key resources and channels that help me learn Flutter better:
+
+- 🔗 [Flutter Documentation](https://docs.flutter.dev/)
+- 🔗 [Dart Language Docs](https://dart.dev/guides)
+
+### 📺 YouTube Channels:
+- 🎓 [Flutter Dev - Official](https://www.youtube.com/@flutterdev)
+- 🎓 [Tech Idara – Ishaque Hassan](https://www.youtube.com/@IshaqueHassan)
+- 🎓 [The Tech Brothers](https://www.youtube.com/@thetechbrotherss)
+- 🎓 [Hey Flutter](https://www.youtube.com/@HeyFlutter)
+
+> **Many more..!**
 
 ---
 
